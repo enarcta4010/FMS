@@ -57,6 +57,7 @@
     <Compile Include="Admin.Designer.cs">
       <DependentUpon>Admin.cs</DependentUpon>
     </Compile>
+    <Compile Include="Bayes.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
